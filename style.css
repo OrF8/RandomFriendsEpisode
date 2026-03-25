@@ -332,3 +332,10 @@ body.light-mode .badge {
     height: 40px;
   }
 }
+
+.episode-summary {
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
